@@ -2,7 +2,9 @@
 
 # Version Control System in Java
 
-[▶️ Watch Demo Video](https://youtu.be/JQeuKI_IYII)
+## 🎥 Demo
+
+[![Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/JQeuKI_IYII)
 
 A simple **Version Control System** built in Java for a Data Structures course project.  
 This program allows users to create and manage versions of a tracked text file using a **linked list** for version storage and **stacks** for undo/redo operations.
